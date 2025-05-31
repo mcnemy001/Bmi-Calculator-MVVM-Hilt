@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI Calculator MVVM Hilt</string>
+    <string name="judul">BMI Calculator</string>
+    <string name="nim">NIM : 1012384</string>
+    <string name="nama">Aziyusman Maulana</string>
+
+    <string name="berat_badan">Berat Badan</string>
+    <string name="kg">Berat badan (kg)</string>
+    <string name="tinggi_badan">Tinggi Badan</string>
+    <string name="cm">Tinggi badan (cm)</string>
+    <string name="hitung_bmi">Hitung BMI</string>
+
+    <string name="bmi_result">BMI Result</string>
+    <string name="bmi_value">Nilai BMI Anda:</string>
+    <string name="bmi_category">Kategori BMI:</string>
+    <string name="btn_info">Info Pengembang</string>
+    <string name="developed_by">Developed by</string>
+
+</resources>
